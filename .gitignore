@@ -3,3 +3,5 @@
 *checkpoint.ipynb
 # exclude all medical images:
 *.nii.gz
+.vscode 
+/.vscode
