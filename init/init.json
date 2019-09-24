@@ -1,5 +1,5 @@
 {
-    "docker_id": "modelhub/pytorch-modelhub-gpu:3",
+    "docker_id": "modelhub/pytorch-modelhub-gpu:1",
     "external_contrib_files": [
       {
         "src_url": "https://github.com/modelhub-ai/mic-dkfz-brats/releases/download/v0.1/0_model_best.model",
