@@ -5,3 +5,4 @@
 *.nii.gz
 .vscode 
 /.vscode
+*.model
