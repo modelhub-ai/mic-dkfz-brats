@@ -1,0 +1,19 @@
+{
+    "format": ["application/json"],
+    "t1": {
+        "type": "Nifti-1",
+        "fileurl":"sample_data/t1.nii.gz"
+    },
+    "t1c": {
+        "type": "Nifti-1",
+        "fileurl":"sample_data/t1ce.nii.gz"
+    },
+    "t2": {
+        "type": "Nifti-1",
+        "fileurl":"sample_data/t2.nii.gz"
+    },
+    "flair": {
+        "type": "Nifti-1",
+        "fileurl":"sample_data/flair.nii.gz"
+    }
+}
