@@ -1,4 +1,25 @@
 {
     "docker_id": "modelhub/pytorch-modelhub-gpu:3",
-    "external_contrib_files": []
+    "external_contrib_files": [
+      {
+        "src_url": "https://github.com/modelhub-ai/mic-dkfz-brats/releases/download/v0.1/0_model_best.model",
+        "dest_file_path": "/contrib_src/model/params/0/model_best.model"
+      },
+      {
+        "src_url": "https://github.com/modelhub-ai/mic-dkfz-brats/releases/download/v0.1/1_model_best.model",
+        "dest_file_path": "/contrib_src/model/params/1/model_best.model"
+      },
+      {
+        "src_url": "https://github.com/modelhub-ai/mic-dkfz-brats/releases/download/v0.1/2_model_best.model",
+        "dest_file_path": "/contrib_src/model/params/2/model_best.model"
+      },
+      {
+        "src_url": "https://github.com/modelhub-ai/mic-dkfz-brats/releases/download/v0.1/3_model_best.model",
+        "dest_file_path": "/contrib_src/model/params/3/model_best.model"
+      },
+      {
+        "src_url": "https://github.com/modelhub-ai/mic-dkfz-brats/releases/download/v0.1/4_model_best.model",
+        "dest_file_path": "/contrib_src/model/params/4/model_best.model"
+      }
+    ]
 }
